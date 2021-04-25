@@ -1,0 +1,8 @@
+
+ENVIRONMENT = test
+RESULTS = MonthlyTotal, SixMonthTotal, Discounts, StatusCode
+PRODUCT = Auto
+FILE = Test data for Open Weather Map.xlsx
+SHEET = Automation Data
+ROW = 1
+SAMPLE = JSONOpenWeatherMap.json
